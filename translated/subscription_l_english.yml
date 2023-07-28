@@ -1,0 +1,10 @@
+﻿l_english:
+  SUBSCRIPTION:0 "Assinatura de DLC"
+  SUB_MESSAGE_subscription_TITLE:0 "Assinatura agora disponível na Steam"
+  SUB_MESSAGE_subscription_DESC:0 "Uma assinatura para Europa Universalis IV dará acesso a todas as expansões e outros conteúdos por uma pequena taxa mensal. As assinaturas agora estão disponíveis apenas na página da loja Europa Universalis IV na Steam."
+  SUB_MESSAGE_NO_ACTION:0 "OK"
+  GOTO_STEAM:0 "Ir para a Steam"
+  SUB_BANNER_NEW_SUB_INACTIVE:0 "Assine todas as DLCs já lançadas!"
+  SUB_BANNER_NEW_SUB_ACTIVE:0 "A assinatura está ativa!"
+  SUB_BANNER_BUTTON_VIEW_NEW_SUB_INACTIVE:0 "Ir para a Steam"
+  SUB_BANNER_BUTTON_VIEW_NEW_SUB_ACTIVE:0 "Gerenciar"

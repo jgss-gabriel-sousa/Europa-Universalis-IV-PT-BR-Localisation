@@ -1,0 +1,7 @@
+﻿l_english:
+ demand_dummy_title:0 "Demandar Dummy"
+ demand_dummy_desc:0 "Exija que [From.Monarch.GetName] de [From.GetName] se torne nosso Dummy. Isso aumentará a confiança mútua!"
+ demand_dummy_tooltip:0 "Exija que eles se tornem nosso Dummy."
+ demand_dummy_dialog:0 "[This.GetName] exige que você se torne o Dummy deles. Isso aumentaria a confiança mútua!"
+ demand_dummy_alert_tooltip:0 "Uma exigência para nos tornarmos um Dummy"
+ HAS_MORE_MANPOWER:0 "[This.GetName] tem mais homens disponíveis do que [From.GetName].\n"

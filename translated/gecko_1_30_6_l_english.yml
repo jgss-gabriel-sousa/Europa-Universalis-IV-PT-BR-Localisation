@@ -1,0 +1,4 @@
+﻿l_english:
+  MATCHMAKING_MISMATCH_TITLE:1 "Sistema multiplayer incorreto"
+  MATCHMAKING_MISMATCH_DESC:1 "O outro usuário está usando outro sistema multiplayer. Por favor, reinicie o jogo e selecione $NAME$"
+  MATCHMAKING_MISMATCH_DESC_EGS:0 "O outro usuário está hospedando usando o backend Steam, o que não é suportado na versão do jogo para Epic Games Store"
