@@ -1,0 +1,18 @@
+﻿l_english:
+  POPS_invalid-email:0 "O email não é válido"
+  POPS_account-exists:0 "Já existe uma conta com esse email"
+  POPS_dynamodb-failure:0 "Falha ao conectar"
+  POPS_ua:0 "Não é elegível"
+  POPS_not-authorized:0 "O email e a senha que você digitou não correspondem"
+  POPS_UNEXPECTED_ERROR:0 "Falha ao fazer login. Verifique sua conexão com a internet e tente novamente."
+  POPS_bad-password-length:0 "A senha é muito curta"
+# Esses casos "nunca" deveriam acontecer, nós deveríamos ter validado antes de enviar os dados.
+  POPS_bad-password-length:0 "A senha é muito curta" # Pode ser muito longa também, mas o limite superior é de 128 caracteres (no momento da escrita)
+  POPS_missing-required-account-details-keys:0 "Faltam informações obrigatórias"
+  POPS_invalid-country-code:0 "O código do país é inválido"
+  POPS_invalid-language-code:0 "O código do idioma é inválido"
+  POPS_invalid-ISO-8601-format:0 "Formato de data inválido"
+  # These should also not happen, but are not related to validating our form
+  POPS_parse-failure:0 "Falha no cliente (Parse)"
+  POPS_unsupported-account-details-keys:0 "Falha no Cliente (Unsupported Keys)"
+  POPS_invalid-script-code:0 "Falha no Cliente (Invalid Script)"
