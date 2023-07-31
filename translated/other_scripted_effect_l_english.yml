@@ -1,0 +1,14 @@
+﻿l_english:
+  add_or_upgrade_trade_building_tt:0 "§Y[This.GetName]§! terá seu §YPrédio Comercial§! atualizado. Se nenhum prédio estiver presente, adicione um §YMercado§!, e se houver um §YBolsa de Valores§!, ganhe §G1§! Imposto Base e §G1§! Produção Base em §Y[This.GetName]§!."
+  add_or_upgrade_tax_building_tt:0 "§Y[This.GetName]§! terá seu §YPrédio de Impostos§! atualizado. Se nenhum prédio estiver presente, adicione um §YTemplo§!, e se houver uma §YCatedral§!, ganhe §G2§! Imposto Base em §Y[This.GetName]§!."
+  add_or_upgrade_production_building_tt:0 "§Y[This.GetName]§! terá seu §YPrédio de Produção§! atualizado. Se nenhum prédio estiver presente, adicione uma §YOficina§!, e se houver uma §YCasa de Contagem§!, ganhe §G2§! Produção Base em §Y[This.GetName]§!."
+  add_or_upgrade_dock_building_tt:0 "§Y[This.GetName]§! terá seu §YPrédio do Porto§! atualizado. Se nenhum prédio estiver presente, adicione §YDocas§!, e se houver §YDocas Secas§!, ganhe §G500§! Marinheiros."
+  add_or_upgrade_shipyard_building_tt:0 "§Y[This.GetName]§! terá seu §YPrédio de Estaleiro§! atualizado. Se nenhum prédio estiver presente, adicione §YEstaleiro§!, e se houver §YGrande Estaleiro§!, ganhe §G500§! Marinheiros."
+  add_or_upgrade_manpower_building_tt:0 "§Y[This.GetName]§! terá seu §YPrédio de Mão de Obra§! atualizado. Se nenhum prédio estiver presente, adicione §YQuartel§!, e se houver §YCampos de Treinamento§!, ganhe §G1§! Produção Base e §G1§! Mão de Obra Base em §Y[This.GetName]§!."
+  add_or_upgrade_forcelimit_building_tt:0 "§Y[This.GetName]§! terá seu §YPrédio de Limite de Exército§! atualizado. Se nenhum prédio estiver presente, adicione §YCampo Regimental§!, e se houver §YCentro de Conscrição§!, ganhe §G2§! Mão de Obra Base em §Y[This.GetName]§!."
+  add_or_upgrade_university_building_tt:0 "Se não houver §YUniversidade§! presente, adicione §YUniversidade§!, e se houver, ganhe §G1§! Imposto Base, §G1§! Produção Base e §G1§! Mão de Obra Base em §Y[This.GetName]§!."
+  add_or_upgrade_courthouse_building_tt:0 "§Y[This.GetName]§! terá seu §YPrédio do Tribunal§! atualizado. Se nenhum prédio estiver presente, adicione §YTribunal§!, e se houver §YPrefeitura§!, ganhe §G1§! Imposto Base, §G1§! Produção Base e §G1§! Mão de Obra Base em §Y[This.GetName]§!."
+  add_or_upgrade_fort_building_tt:0 "§Y[This.GetName]§! terá seu §YPrédio do Forte§! atualizado. Se nenhum prédio estiver presente, adicione §YCastelo§!, e se houver §YFortaleza§!, ganhe §G3§! Mão de Obra Base em §Y[This.GetName]§!."
+
+ ME_yes:0 "£sim£"
+ ME_no:0 "£não£"
