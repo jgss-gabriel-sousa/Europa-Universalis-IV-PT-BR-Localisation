@@ -371,7 +371,7 @@
   MODIFIER_FORCE_MARCH_FREE:0 "Marcha Forçada não custa Poder"
   SPLENDOR_MONTHLY_GAIN:0 "Você ganha $VAL$ de esplendor mensalmente devido a:\n"
   ADD_AGE_AB_NOT_ENOUGH_SPLENDOR:0 "Você precisa de mais esplendor, pois custa $NEED|Y$ para adquirir, e você tem apenas $CURR|Y$."
-  AGE_STARTS_WHEN:0 "Esta era começa quando\n$HOW$\nestiver verdadeira por pelo menos $MONTHS|Y$ meses."
+  AGE_STARTS_WHEN:0 "Esta era começa quando\n$HOW$\ntem sido verdadeiro por pelo menos $MONTHS|Y$ meses."
   AGE_FOLLOWING_OBJECTIVES:0 "§YObjetivos§!"
   AGE_FOLLOWING_OBJECTIVESNC:0 "Com os seguintes objetivos:\n"
   CURR_AGE_TRIG_NOT:0 "Atualmente, não é a $NAME|Y$.\n"
