@@ -614,7 +614,7 @@
   DISBAND_UNIT:0 "§YDispandar Unidade§!"
   DISBAND_UNIT_CANT:0 "Você não pode dissolver uma unidade que está em território inimigo ou próxima de exércitos inimigos."
   DISBAND_UNIT_CONDOTTIERI:0 "Você não pode dissolver as tropas de Condottieri."
-  DISBAND_UNIT_DRO:1 "Dissolver um exército reduzirá a quantidade de dinheiro que sua nação gasta em manutenção.\nSe a unidade estiver com força muito baixa, você pode querer dissolvê-la e usar sua reserva de mão de obra para reforçar unidades em áreas mais importantes."
+  DISBAND_UNIT_DRO:1 "Dissolver um exército reduzirá a quantidade de dinheiro que sua nação gasta em manutenção.\nSe a unidade estiver com força muito baixa, você pode querer dissolvê-la e usar sua reserva de soldados para reforçar unidades em áreas mais importantes."
   DISBAND_UNIT_RETURN_MANPOWER:0 "$NUMBER|Y$ de seus homens voltarão para nossa reserva de mão de obra. Os mercenários não retornarão."
   DISBAND_UNIT_RETURN_SAILORS:0 "Os marinheiros retornarão à nossa reserva de marinheiros."
   NEW_UNIT:1 "§YCriar Nova Unidade§!"
