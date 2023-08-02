@@ -890,7 +890,7 @@
   SELECT_REGION_MISSION:0 "Selecionar Região"
   EXPLORE_MISSON_SEA:1 "$WHERE$ (Mar)"
   EXPLORE_MISSON_COAST:1 "$WHERE$ (Costa)"
-  EXPENSEFORTM:0 "Manutenção de Forte"
+  EXPENSEFORTM:0 "Manutenção de Fortalezas"
   MODIFIER_MAX_STATES:0 "Número de Estados"
   MODIFIER_POSSIBLE_CONDOTTIERI:0 "Condottieri Possíveis"
   MODIFIER_GLOBAL_SHIP_TRADE_POWER:1 "Poder Comercial Marítimo"
