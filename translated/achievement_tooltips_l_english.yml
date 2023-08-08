@@ -51,7 +51,7 @@
   discovered_random_new_world:0 "Descobriu todo o Novo Mundo."
   captured_a_flagship:0 "Capturou um Navio-Almirante inimigo."
   expelled_5_different_minorities_tooltip:0 "Expulsou 5 minorias diferentes."
-  spanish_fly_tooltip:0 "Qualquer país com sua capital na região da Ibéria é um Parceiro Júnior de [Root.GetName]."
+  spanish_fly_tooltip:0 "Qualquer país com sua capital na região da Ibéria é um Parceiro Subordinado de [Root.GetName]."
   spread_revolution_ten_times_tt:0 "Espalhou a Revolução dez vezes."
   kingdom_of_god_achievement_tt:0 "É o Reino de Deus."
   completed_austrian_missions:0 "Complete a árvore de missões austríacas."

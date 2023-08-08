@@ -958,7 +958,7 @@
   DISASTER_ESTIMATED_START:0 "Com essa taxa, $DISASTER|Y$ começará em $STARTDATE|Y$."
   END_OF_DISASTER:0 "$NAME|Y$ chegará ao fim.\n"
   ALERT_DISASTER_ENTRY:0 "§Y$NAME$§! - §Y$CURR$%§! ($CHANGE$)\nO progresso mensal se deve a:\n$REASON$"
-  MONARCHY_LESSER_IN_UNION_NOT_CONVERT:0 "Como parceiro menor em uma união, você não pode mudar de governo."
+  MONARCHY_LESSER_IN_UNION_NOT_CONVERT:0 "Como parceiro subordinado em uma união, você não pode mudar de governo."
   HAVE_LESS_SHIPS_PRIVATEERING:1 "Ter menos navios de guerra fazendo pirataria do que $VAL|Y$."
   HAVE_MORE_SHIPS_PRIVATEERING_THAN:1 "Ter pelo menos $VAL$ navios de guerra fazendo pirataria."
   LIB_TOO_LOW_TARIFF:0 "$CHANGE$ devido ao Tarifa Efetiva $TARIFF|Y$ menor que a Liberdade Atual $CURRENT|Y$.\n"
