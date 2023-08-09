@@ -7,3 +7,7 @@
 * Unrest = Inquietação
 * Senior Partner = Parceiro Suserano
 * Lesser Partner = Parceiro Subordinado
+* Manpower (Na província) = Recrutamento
+* Manpower (No total) = Reserva de Soldados
+* Wasteland = Região Inóspita
+* March = Vassalo Militar
