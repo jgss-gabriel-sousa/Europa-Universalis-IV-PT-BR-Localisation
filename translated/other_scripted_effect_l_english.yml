@@ -10,5 +10,5 @@
   add_or_upgrade_courthouse_building_tt:0 "§Y[This.GetName]§! terá seu §YPrédio do Tribunal§! atualizado. Se nenhum prédio estiver presente, adicione §YTribunal§!, e se houver §YPrefeitura§!, ganhe §G1§! Imposto Base, §G1§! Produção Base e §G1§! Recrutamento Base em §Y[This.GetName]§!."
   add_or_upgrade_fort_building_tt:0 "§Y[This.GetName]§! terá seu §YPrédio do Forte§! atualizado. Se nenhum prédio estiver presente, adicione §YCastelo§!, e se houver §YFortaleza§!, ganhe §G3§! Recrutamento Base em §Y[This.GetName]§!."
 
- ME_yes:0 "£sim£"
- ME_no:0 "£não£"
+ ME_yes:0 "£yes£"
+ ME_no:0 "£no£"
