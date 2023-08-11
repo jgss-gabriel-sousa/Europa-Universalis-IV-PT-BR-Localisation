@@ -11,3 +11,4 @@
 * Manpower (No total) = Reserva de Soldados
 * Wasteland = Região Inóspita
 * March = Vassalo Militar
+* Estates = Estamentos
