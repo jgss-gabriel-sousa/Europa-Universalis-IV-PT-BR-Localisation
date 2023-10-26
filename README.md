@@ -12,3 +12,4 @@
 * Wasteland = Região Inóspita
 * March = Vassalo Militar
 * Estates = Estamentos
+* Trade Node = Nó Comercial
